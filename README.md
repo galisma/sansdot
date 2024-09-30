@@ -8,7 +8,7 @@
 
 ## EEE E EE EEE EEE E EE EE EE
 
-**[Sansdot Engine](https://www.youtube.com/watch?v=8Ka1QZQ4zf0) ee eee ee eee eee e eeee eee ee eee eee e ee
+ee eee ee eee eee e eeee eee ee eee eee e ee
 ee eee ee eee eee e ee ee eee ee eee eee e ee ee eee ee eee eee e ee ee eee ee eee eee e ee ee eee ee eee eee e ee
 ee eee ee eee eee e ee ee eee ee eee eee e ee ee eee ee eee eee e ee ee eee ee eee eee e ee ee eee ee eee eee e ee
 
@@ -20,9 +20,7 @@ ee ee eee ee eee eee e ee ee eee ee eee eee e ee ee eee ee eee eee e ee ee eee e
 ee eee ee eee eee e ee ee eee ee eee eee e ee ee eee ee eee eee e ee ee eee ee eee eee e ee ee eee ee eee eee e ee
 ee eee ee eee eee e ee ee eee ee eee eee e eeee eee ee eee eee e eeee eee ee eee eee e ee
 
-![Screenshot of a 3D scene in the Godot Engine editor](https://www.youtube.com/watch?v=8Ka1QZQ4zf0)
-
-### E EE EEE Ee
+### E EE EEE EE
 
 e eee eee e ee ee eee ee eee eee e ee e eee eee e ee ee eee ee eee eee e ee 
 e eee eee e ee ee eee ee eee eee e ee e eee eee e ee ee eee
